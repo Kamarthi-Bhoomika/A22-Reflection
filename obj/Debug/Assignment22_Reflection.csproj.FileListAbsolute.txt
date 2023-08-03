@@ -1,0 +1,8 @@
+D:\Mphasis\.net\Day19\Assignment22_Reflection\Assignment22_Reflection\bin\Debug\Assignment22_Reflection.exe.config
+D:\Mphasis\.net\Day19\Assignment22_Reflection\Assignment22_Reflection\bin\Debug\Assignment22_Reflection.exe
+D:\Mphasis\.net\Day19\Assignment22_Reflection\Assignment22_Reflection\bin\Debug\Assignment22_Reflection.pdb
+D:\Mphasis\.net\Day19\Assignment22_Reflection\Assignment22_Reflection\obj\Debug\Assignment22_Reflection.csproj.AssemblyReference.cache
+D:\Mphasis\.net\Day19\Assignment22_Reflection\Assignment22_Reflection\obj\Debug\Assignment22_Reflection.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\.net\Day19\Assignment22_Reflection\Assignment22_Reflection\obj\Debug\Assignment22_Reflection.csproj.CoreCompileInputs.cache
+D:\Mphasis\.net\Day19\Assignment22_Reflection\Assignment22_Reflection\obj\Debug\Assignment22_Reflection.exe
+D:\Mphasis\.net\Day19\Assignment22_Reflection\Assignment22_Reflection\obj\Debug\Assignment22_Reflection.pdb
