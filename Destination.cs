@@ -8,7 +8,6 @@ namespace Assignment22_Reflection
 {
     public class Destination
     {
-        public Destination() { }
         private int id;
 
         public int ID
@@ -16,6 +15,14 @@ namespace Assignment22_Reflection
             get { return id; }
             set { id = value; }
         }
+        private string name;
+
+        public string Name
+        {
+            get { return name; }
+            set { name = value; }
+        }
+
         private string password;
 
         public string Password
@@ -23,5 +30,7 @@ namespace Assignment22_Reflection
             get { return password; }
             set { password = value; }
         }
+
+
     }
 }

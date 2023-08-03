@@ -8,7 +8,6 @@ namespace Assignment22_Reflection
 {
     public class Source
     {
-        public Source() { }
         private int id;
 
         public int ID
@@ -23,5 +22,13 @@ namespace Assignment22_Reflection
             get { return name; }
             set { name = value; }
         }
+        private string city;
+
+        public string City
+        {
+            get { return city; }
+            set { city = value; }
+        }
+
     }
 }
