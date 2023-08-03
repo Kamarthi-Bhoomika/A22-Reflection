@@ -32,10 +32,14 @@ namespace Assignment22_Reflection
         {
             Source source = new Source();
             Destination destination = new Destination();
-            source.ID = 1;
-            source.Name = "Test";
-            destination.ID = 2;
-            destination.Password = "password";
+            Console.WriteLine("Enter Id for source: ");
+            source.ID = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter Name for source: ");
+            source.Name = Console.ReadLine();
+            Console.WriteLine("Enter Id for destination: ");
+            destination.ID = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter Password for destination: ");
+            destination.Password = Console.ReadLine();
             MapProperties(source, destination);
             Console.WriteLine("Destination Property values ");
             Console.WriteLine("ID: "+destination.ID);
